@@ -1,0 +1,26 @@
+export const ROOM_NAMES: Record<number, string> = {
+  0: 'Hauptraum',
+  1: 'Raum 1',
+  2: 'Raum 2',
+  3: 'Privatraum',
+  4: 'Karussell',
+  5: 'Raum 5',
+  6: 'Raum 6',
+  7: 'Raum 7',
+  8: 'Raum 8',
+  9: 'Raum 9',
+  10: 'VIP Raum 10',
+  11: 'VIP Raum 11',
+  12: 'VIP Raum 12',
+  13: 'VIP Raum 13',
+  14: 'VIP Raum 14',
+  15: 'VIP Raum 15',
+  16: 'VIP Raum 16',
+  17: 'VIP Raum 17',
+  18: 'VIP Raum 18',
+  19: 'VIP Raum 19',
+  20: 'VIP Raum 20',
+  21: '17+4',
+};
+
+export const CHATMASTER_ROOMS = [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30];
